@@ -34,9 +34,9 @@ print("You are a senior citizen.")
 
 このプログラムでは、変数 age の値に基づいて、次のメッセージが表示されます：
 
-**18 歳未満**の場合は「You are a minor.」と表示されます。
-**18 歳以上 65 歳未満**の場合は「You are an adult.」と表示されます。
-**65 歳以上**の場合は「You are a senior citizen.」と表示されます。
+- **18 歳未満**の場合は「You are a minor.」と表示されます。
+- **18 歳以上 65 歳未満**の場合は「You are an adult.」と表示されます。
+- **65 歳以上**の場合は「You are a senior citizen.」と表示されます。
 
 ### コード例
 
