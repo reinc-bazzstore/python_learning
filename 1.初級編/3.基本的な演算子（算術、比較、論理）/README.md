@@ -4,9 +4,9 @@
 
 Python では、数値や条件を扱うためにさまざまな演算子を使用します。このガイドでは、以下の演算子を学びます：
 
-**算術演算子（数値の計算）**
-**比較演算子（条件の比較）**
-**論理演算子（複数の条件を組み合わせる）**
+- **算術演算子（数値の計算）**
+- **比較演算子（条件の比較）**
+- **論理演算子（複数の条件を組み合わせる）**
 それぞれの演算子を学んだ後に、実際にコードを書いてみましょう。
 
 ## 1. 算術演算子（Arithmetic Operators）
@@ -43,7 +43,7 @@ print(x % y) # 余り -> 1
 
 ## 2. 比較演算子（Comparison Operators）
 
-比較演算子は、**2 つの値を比較**して、結果として**True（真）** または **False（偽）** を返します。
+- 比較演算子は、**2 つの値を比較**して、結果として**True（真）** または **False（偽）** を返します。
 
 | 演算子 | 説明       | 例     |
 | ------ | ---------- | ------ |
@@ -69,7 +69,7 @@ print(x > y) # より大きいか -> True
 
 ## 3. 論理演算子（Logical Operators）
 
-論理演算子は、**複数の条件を組み合わせる**ために使用します。結果は `True` か `False` になります。
+- 論理演算子は、**複数の条件を組み合わせる**ために使用します。結果は `True` か `False` になります。
 
 | 演算子 | 説明                      | 例      |
 | ------ | ------------------------- | ------- |
@@ -90,9 +90,9 @@ print(is_raining or is_windy) # どちらかが True か -> True
 print(not is_raining) # 否定 -> False
 ```
 
-is_raining and is_windy は `False`（どちらも True ではない）
-is_raining or is_windy は `True`（どちらかが True）
-not is_raining は `False`（True の反対は False）
+- is_raining and is_windy は `False`（どちらも True ではない）
+- is_raining or is_windy は `True`（どちらかが True）
+- not is_raining は `False`（True の反対は False）
 
 ## 演習
 
