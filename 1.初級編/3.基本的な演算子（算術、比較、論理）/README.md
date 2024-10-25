@@ -88,10 +88,10 @@ is_windy = False
 print(is_raining and is_windy) # 両方とも True か -> False
 print(is_raining or is_windy) # どちらかが True か -> True
 print(not is_raining) # 否定 -> False
-is_raining and is_windy は False（どちらも True ではない）
-is_raining or is_windy は True（どちらかが True）
-not is_raining は False（True の反対は False）
 ```
+is_raining and is_windy は `False`（どちらも True ではない）
+is_raining or is_windy は `True`（どちらかが True）
+not is_raining は `False`（True の反対は False）
 
 ## 演習
 
