@@ -31,7 +31,7 @@ y = 3
 
 print(x + y) # 足し算 -> 13
 print(x - y) # 引き算 -> 7
-print(x _ y) # 掛け算 -> 30
+print(x * y) # 掛け算 -> 30
 print(x / y) # 割り算 -> 3.333...
 print(x % y) # 余り -> 1
 ```
