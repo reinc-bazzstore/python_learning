@@ -32,7 +32,7 @@ def 関数名(引数): # 関数内の処理
 # 関数の定義
 
 def greet(name):
-print(f"Hello, {name}!")
+  print(f"Hello, {name}!")
 
 # 関数の呼び出し
 
@@ -57,7 +57,7 @@ Hello, Alice!
 # 関数の定義
 
 def greet(name):
-print(f"Hello, {name}!")
+  print(f"Hello, {name}!")
 
 # 関数の呼び出し
 
