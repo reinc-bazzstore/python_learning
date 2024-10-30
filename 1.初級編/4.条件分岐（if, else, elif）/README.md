@@ -23,11 +23,11 @@ else: # すべての条件が False のときに実行されるコード
 age = 20
 
 if age < 18:
-print("You are a minor.")
+  print("You are a minor.")
 elif age < 65:
-print("You are an adult.")
+  print("You are an adult.")
 else:
-print("You are a senior citizen.")
+  print("You are a senior citizen.")
 ```
 
 ## プログラムの説明
@@ -46,11 +46,11 @@ print("You are a senior citizen.")
 age = 20 # 年齢を指定
 
 if age < 18:
-print("You are a minor.") # 18 歳未満の場合の出力
+  print("You are a minor.") # 18 歳未満の場合の出力
 elif age < 65:
-print("You are an adult.") # 18 歳以上 65 歳未満の場合の出力
+  print("You are an adult.") # 18 歳以上 65 歳未満の場合の出力
 else:
-print("You are a senior citizen.") # 65 歳以上の場合の出力
+  print("You are a senior citizen.") # 65 歳以上の場合の出力
 ```
 
 ### 出力例
