@@ -18,7 +18,7 @@
 fruits = ["apple", "banana", "cherry"]
 
 for fruit in fruits:
-print(f"I like {fruit}")
+   print(f"I like {fruit}")
 ```
 
 ### プログラムの説明:
@@ -45,8 +45,8 @@ I like cherry
 counter = 5
 
 while counter > 0:
-print(f"Counter: {counter}")
-counter -= 1
+   print(f"Counter: {counter}")
+   counter -= 1
 ```
 
 ### プログラムの説明:
@@ -76,14 +76,14 @@ Counter: 1
 
 fruits = ["apple", "banana", "cherry"]
 for fruit in fruits:
-print(f"I like {fruit}")
+   print(f"I like {fruit}")
 
 # while ループ
 
 counter = 5
 while counter > 0:
-print(f"Counter: {counter}")
-counter -= 1
+   print(f"Counter: {counter}")
+   counter -= 1
 ```
 
 コードをエディタにコピーして、新しいファイル（例：`loops_example.py`） として保存します。
